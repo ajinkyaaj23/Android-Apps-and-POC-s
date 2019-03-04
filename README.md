@@ -1,2 +1,4 @@
 # Android-Apps-and-POC-s
-Android Applications POC's and examples
+Android Model-View_ViewModel design architecture patterns with Room Database.
+Room DB - Insert, Delete, Update, Create
+Recycler View, view model
